@@ -16,7 +16,7 @@ const auditContrast = element =>
   [
     lumina(
       window
-        .getComputedStyle(element, null) //
+        .getComputedStyle(element, null)
         .getPropertyValue("background-color")
         .match(/[0-9.]+/g)
     ),
