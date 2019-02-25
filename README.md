@@ -1,5 +1,5 @@
 # colorContrastAudit
-ES6 color contrast audit for lighthouse WCAG 2 level AA
+ES6 / JavaScript color contrast audit for lighthouse WCAG 2 level AA
 
 method to validate elements will pass lighthouse Accessibility contrast audit
 
